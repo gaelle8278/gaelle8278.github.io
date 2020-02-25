@@ -23,7 +23,7 @@ email: gaelle.rauffet@kiwiscan.net
 description: >- # this means to ignore newlines until "baseurl:"
   Blog d'une développeuse. Contient des articles tech et dev issus de ma veille et de mes tests.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://blog.gaelle-rauffet.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: gaelle3182
 github_username:  gaelle8278
 
