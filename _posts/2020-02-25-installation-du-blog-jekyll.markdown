@@ -2,7 +2,7 @@
 layout: post
 title:  "Mise en place d'un blog sous Jekyll!"
 date:   2020-02-25 22:38:19 +0100
-categories: jekyll update
+categories: note
 ---
 Premier article de mon blog tech et dev. Ce blog est propulsé par Jekyll. 
 
@@ -20,9 +20,12 @@ Les étapes :
 4. Adaptation de la configuration dans _config.yml
 5. Création des articles dans le dossier _posts
 6. Paramétrage de Github Pages et déploiement du blog
+7. Personnalisation  
+  - Permalink  
+  - Nom de domaine
+
 
 **Ressources**  
-[Article sur dev.to](https://dev.to/hyvortalk/creating-a-site-blog-with-jekyll-and-github-pages-50p4)
-
+[Article sur dev.to](https://dev.to/hyvortalk/creating-a-site-blog-with-jekyll-and-github-pages-50p4)  
 [Doc Jekyll](https://jekyllrb.com/docs/)
 
