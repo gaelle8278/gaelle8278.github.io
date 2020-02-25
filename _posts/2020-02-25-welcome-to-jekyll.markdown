@@ -19,8 +19,10 @@ Les étapes :
 ```
 4. Adaptation de la configuration dans _config.yml
 5. Création des articles dans le dossier _posts
+6. Paramétrage de Github Pages et déploiement du blog
 
 **Ressources**  
 [Article sur dev.to](https://dev.to/hyvortalk/creating-a-site-blog-with-jekyll-and-github-pages-50p4)
+
 [Doc Jekyll](https://jekyllrb.com/docs/)
 
