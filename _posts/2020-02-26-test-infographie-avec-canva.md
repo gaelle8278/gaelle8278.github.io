@@ -6,7 +6,7 @@ categories: test
 
 Test de la création d'infographie avec Canva. Voici ce que j'ai réussi à produire, rapidement en quelques clics :
 
-![Mon infographie sur Canva](/assets/PHP-infographie.png)
+![Mon infographie sur Canva](/assets/img/PHP-infographie.png)
 
 L'outil est intuitif et contient beaucoup de fonctionnalités et possibilités dans sa version gratuite (types d'éléments, fonts, images persos ...).
 
