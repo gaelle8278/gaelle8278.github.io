@@ -1,0 +1,9 @@
+---
+---
+
+@import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+@import "minima/initialize";
+
+.img-small {
+    max-width: 75%;
+}
