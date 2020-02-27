@@ -6,3 +6,7 @@
 .img-small {
     max-width: 75%;
 }
+
+.head-heading {
+    @include relative-font-size(1.75);
+}

@@ -3,4 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: Articles
 ---
+
+<h2 class="head-heading">Welcome !</h2>
