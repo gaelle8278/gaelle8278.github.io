@@ -5,6 +5,7 @@ date:   2020-02-25 22:38:19 +0100
 categories: note
 ---
 Premier article de mon blog tech et dev. Ce blog est propulsé par Jekyll. 
+<!--more-->
 
 Cet article sera donc très court car il n'est là que pour illustrer la mise en place de Jekyll et son déploiement sur .
 

@@ -10,3 +10,7 @@
 .head-heading {
     @include relative-font-size(1.75);
 }
+
+.ialign-center {
+    text-align: center;
+}
