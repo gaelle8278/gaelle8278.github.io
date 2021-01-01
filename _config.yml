@@ -37,6 +37,10 @@ permalink: /:title:output_ext
 show_excerpts: true
 excerpt_separator: <!--more-->
 
+
+future: true
+timezone: Europe/Paris
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
