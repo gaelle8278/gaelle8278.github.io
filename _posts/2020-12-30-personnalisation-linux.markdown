@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Personnalisation poste linux"
-date:   2020-12-30 21:00:00
+title: "Personnalisation poste linux"
+date: 2020-12-30 21:00:00
 tags: personnalisation 
 ---
 
