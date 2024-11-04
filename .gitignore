@@ -3,3 +3,6 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+# can be exclude from repostiroy when site is published on GitHub Page
+# because GitHub Page ignore this file
+# Gemfile.lock
