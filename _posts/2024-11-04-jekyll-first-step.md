@@ -69,9 +69,7 @@ jobs:
 ```
 
 
-Jekyll permet d'éditer en markdown. Jekyll étant propusée par GitHub [voir la doc GitHub][doc-markdown-github]
-
-[doc-markdown-github] : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Jekyll permet d'éditer en markdown. Jekyll étant propusée par GitHub [voir la doc GitHub](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 On ne peut pas voyager dans le futur, c'est-à-dire qu'un post dont le titre comporte une date postérieure à la date du jour ne sera pas publié/visible à la date du jour.
 Mais c'est une fonctionnalité très pratique pour préparer des articles qui seront publiés le jour J 

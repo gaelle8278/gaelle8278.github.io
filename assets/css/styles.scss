@@ -1,4 +1,6 @@
 ---
+# empty front matter at the top tells Jekyll it needs to process the file. 
+# The import "main" tells Sass to look for a file called main.scss in the sass directory (_sass/ by default)
 ---
 
 @import "main";

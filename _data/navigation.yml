@@ -1,4 +1,6 @@
-- name: Home
+- name: Accueil
   link: /
 - name: Blog
   link: /blog.html
+- name: A propos de moi
+  link: /authors/gaelle8278.html

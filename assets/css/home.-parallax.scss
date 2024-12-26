@@ -1,0 +1,54 @@
+--- 
+---
+
+body, html {
+    height: 100%;
+    margin: 0;
+    overflow-x: hidden;
+    perspective: 1px;
+    transform-style: preserve-3d;
+}
+
+#parallax-container {
+    position: relative;
+   // display: block;
+    height: 900px;
+    overflow: hidden;
+}
+
+.parallax-layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 900px;
+    background-size: cover !important;
+    //background-position: center !important;
+    transform-origin: 0 0;
+   //transform: translateY(0px);
+}
+
+/*.layer-back {
+    background-image: url('../images/parallax/background.png');
+    transform: translateZ(-4px) scale(5);
+}*/
+
+.layer-1 {
+    background: url('../images/parallax/calque1.png');
+    transform: translateZ(0) scale(1);
+}
+
+.layer-2 {
+    background: url('../images/parallax/calque2.png');
+    transform: translateZ(-1px) scale(2);
+}
+
+.layer-front {
+    background: url('../images/parallax/calque3.png');
+    transform: translateZ(-3px) scale(3);
+}
+
+.layer-bird {
+    background: url('../images/parallax/calque5.png');
+    transform: translateZ(-4px) scale(4);
+}
