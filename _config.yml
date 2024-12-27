@@ -43,11 +43,19 @@ collections:
   authors:
     output: true
     permalink: /:collection/:name:output_ext
+  tips:
+    output: true
+    permalink: /:collection/:name:output_ext
 
 defaults:
   - scope:
       path: ""
       type: "authors"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "tips"
     values:
       layout: "page"
   - scope:
@@ -122,16 +130,16 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
-  whatsapp: 15551212
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+# facebook: deanattali
+  github: gaelle8278
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
+# whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: gaellerauffet
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78

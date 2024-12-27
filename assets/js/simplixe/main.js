@@ -38,7 +38,7 @@ $(document).ready(function () {
   });
   //animated typed init ------------------------
   new Typed('#typed-text', {
-    strings: ["UI/UX Designer", " Web Developer", "Product Designer"],
+    strings: ["Web Developer", "Software Architect", "Product Designer"],
     typeSpeed: 50,
     backSpeed: 50,
     backDelay: 4000,

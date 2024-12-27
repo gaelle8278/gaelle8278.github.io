@@ -15,3 +15,8 @@ To override the default structure and style of minima, simply create the concern
 
 Note: if publishing your site with GitHub Pages, you can match production version of Jekyll by using the github-pages gem instead of jekyll in your Gemfile. 
 In this scenario you may also want to exclude Gemfile.lock from your repository because GitHub Pages ignores that file.
+
+*Beautiful Jekyll*
+
+Ref :
+- https://beautifuljekyll.com/
